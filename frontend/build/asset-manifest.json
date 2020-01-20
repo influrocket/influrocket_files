@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3215288b.chunk.css",
+    "main.js": "/static/js/main.fb778906.chunk.js",
+    "main.js.map": "/static/js/main.fb778906.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.66abf204.js",
+    "runtime-main.js.map": "/static/js/runtime-main.66abf204.js.map",
+    "static/js/2.aba59c42.chunk.js": "/static/js/2.aba59c42.chunk.js",
+    "static/js/2.aba59c42.chunk.js.map": "/static/js/2.aba59c42.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d4cc608f12b65e1b5b7532dd1aeea515.js": "/precache-manifest.d4cc608f12b65e1b5b7532dd1aeea515.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3215288b.chunk.css.map": "/static/css/main.3215288b.chunk.css.map",
+    "static/js/2.aba59c42.chunk.js.LICENSE": "/static/js/2.aba59c42.chunk.js.LICENSE",
+    "static/media/check.svg": "/static/media/check.4dc5992d.svg",
+    "static/media/features.svg": "/static/media/features.1120c582.svg",
+    "static/media/footer.svg": "/static/media/footer.c9417e93.svg",
+    "static/media/install.svg": "/static/media/install.e691cd9b.svg",
+    "static/media/meteor.svg": "/static/media/meteor.545cd3df.svg",
+    "static/media/radar.svg": "/static/media/radar.8e1c9a6f.svg",
+    "static/media/stars.svg": "/static/media/stars.3082c317.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66abf204.js",
+    "static/js/2.aba59c42.chunk.js",
+    "static/css/main.3215288b.chunk.css",
+    "static/js/main.fb778906.chunk.js"
+  ]
+}
